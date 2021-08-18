@@ -8,3 +8,5 @@ PHP :
 JS :
 NodeJs
 goLang
+CRUD, verif, multi-user
+
