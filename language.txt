@@ -1,0 +1,10 @@
+Native,intermediate PHP, JS
+OOP
+MVC
+Framework
+PHP : 
+-CI
+-Laravel
+JS :
+NodeJs
+goLang
