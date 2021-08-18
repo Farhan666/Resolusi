@@ -7,6 +7,7 @@ PHP :
 -Laravel
 JS :
 NodeJs
-goLang
+
 CRUD, verif, multi-user
+Go
 
